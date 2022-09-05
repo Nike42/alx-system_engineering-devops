@@ -1,1 +1,1 @@
-Task Where am I ?
+script echo "" is used to print a standard output

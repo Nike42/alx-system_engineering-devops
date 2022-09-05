@@ -1,1 +1,2 @@
-script echo ""  is used to print a standard output
+# Shell I/O Redirection and Filtering
+0. Hello World- > Write a script that prints “Hello 
